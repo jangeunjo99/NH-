@@ -2,7 +2,10 @@
 ### FARM분석 기반 Y&Z세대 투자자 커뮤니티 형성과 포인트제도 도입 제안
 
 <br/>
-<br/>
+
+
+* FARMers_NH_investment.html : R을 통한 실제 분석 과정
+* FARMers_PT.pdf : 분석 결과 정리 및 PT 자료
 <br/>
 
 ## 목차
